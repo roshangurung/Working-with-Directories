@@ -1,0 +1,14 @@
+C:\Users\Roshan.Gurung\source\repos\Working with Directories\Working with Directories\bin\Debug\Working with Directories.exe.config
+C:\Users\Roshan.Gurung\source\repos\Working with Directories\Working with Directories\bin\Debug\Working with Directories.exe
+C:\Users\Roshan.Gurung\source\repos\Working with Directories\Working with Directories\bin\Debug\Working with Directories.pdb
+C:\Users\Roshan.Gurung\source\repos\Working with Directories\Working with Directories\obj\Debug\Working with Directories.csprojAssemblyReference.cache
+C:\Users\Roshan.Gurung\source\repos\Working with Directories\Working with Directories\obj\Debug\Working with Directories.csproj.CoreCompileInputs.cache
+C:\Users\Roshan.Gurung\source\repos\Working with Directories\Working with Directories\obj\Debug\Working with Directories.exe
+C:\Users\Roshan.Gurung\source\repos\Working with Directories\Working with Directories\obj\Debug\Working with Directories.pdb
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Working with Directories\Working with Directories\bin\Debug\Working with Directories.exe.config
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Working with Directories\Working with Directories\bin\Debug\Working with Directories.exe
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Working with Directories\Working with Directories\bin\Debug\Working with Directories.pdb
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Working with Directories\Working with Directories\obj\Debug\Working with Directories.csprojAssemblyReference.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Working with Directories\Working with Directories\obj\Debug\Working with Directories.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Working with Directories\Working with Directories\obj\Debug\Working with Directories.exe
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Working with Directories\Working with Directories\obj\Debug\Working with Directories.pdb
